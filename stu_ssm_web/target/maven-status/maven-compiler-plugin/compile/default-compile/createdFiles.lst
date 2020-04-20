@@ -1,8 +1,0 @@
-com\stu\ssm\controller\RoleController.class
-com\stu\ssm\controller\UserController.class
-com\stu\ssm\controller\LogAop.class
-com\stu\ssm\controller\OrdersController.class
-com\stu\ssm\controller\SysLogController.class
-com\stu\ssm\controller\PermissionController.class
-com\stu\ssm\controller\DateConverter.class
-com\stu\ssm\controller\ProductController.class

@@ -1,6 +1,0 @@
-127.0.0.1 - - [11/Feb/2020:20:50:44 +0800] "GET / HTTP/1.1" 302 - http-bio-8888-exec-1 72
-127.0.0.1 - - [11/Feb/2020:20:50:44 +0800] "GET /login.jsp HTTP/1.1" 200 2507 http-bio-8888-exec-4 497
-127.0.0.1 - - [11/Feb/2020:20:51:01 +0800] "POST /login.do HTTP/1.1" 200 12129 http-bio-8888-exec-5 1842
-127.0.0.1 - - [11/Feb/2020:20:51:05 +0800] "GET /sysLog/findAll.do HTTP/1.1" 200 19543 http-bio-8888-exec-7 192
-127.0.0.1 - - [11/Feb/2020:20:51:31 +0800] "GET /logout.do HTTP/1.1" 302 - http-bio-8888-exec-8 3
-127.0.0.1 - - [11/Feb/2020:20:51:31 +0800] "GET /login.jsp HTTP/1.1" 200 2507 http-bio-8888-exec-10 3
